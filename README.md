@@ -1,2 +1,3 @@
-# angry-birds-stage-9.5
-Angry Birds game with multiple birds and reload option
+# Angry Birds Stage 9.5
+
+Angry birds game with multiple birds and an option to reload the game.
